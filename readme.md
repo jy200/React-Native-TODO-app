@@ -10,11 +10,10 @@
 
 ## Features
 - Add Task
-![demo](readme/demo1.gif)
+<img src="readme/demo1.gif" width="200">
 
 -  Edit Task
-![demo](readme/demo2.gif)
-
+<img src="readme/demo2.gif" width="200">
 
 - Toggle task (strikethrough text), Cancel Edit, Delete Task
-![demo](readme/demo3.gif)
+<img src="readme/demo3.gif" width="200">
